@@ -1,0 +1,4 @@
+https://github.com/pa6thi/.net-shorts.git
+
+Non Blocking message box
+new Thread(() => System.Windows.Forms.MessageBox.Show(text)).Start();
